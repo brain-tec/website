@@ -33,6 +33,7 @@ env:
   # module, just enable these 2 lines below to check that.
   # - TESTS="1" ODOO_REPO="odoo/odoo" EXCLUDE="website_seo_redirection"
   # - TESTS="1" ODOO_REPO="OCA/OCB" EXCLUDE="website_seo_redirection"
+  # bli
 
 virtualenv:
   system_site_packages: true
