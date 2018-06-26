@@ -2,7 +2,6 @@
 [![Build Status](https://travis-ci.org/OCA/website.svg?branch=8.0)](https://travis-ci.org/OCA/website)
 [![Coverage Status](https://coveralls.io/repos/OCA/website/badge.png?branch=8.0)](https://coveralls.io/r/OCA/website?branch=8.0)
 
-dsc
 Odoo modules for website builder
 ================================
 
