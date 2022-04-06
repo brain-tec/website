@@ -5,7 +5,7 @@
 {
     "name": "Website CRM - ReCaptcha",
     "summary": "Provides a ReCaptcha validation in Website Contact Form",
-    "version": "13.0.1.0.1",
+    "version": "13.0.1.0.2",
     "category": "Website",
     "website": "https://github.com/OCA/website",
     "author": "LasLabs, Tecnativa, Odoo Community Association (OCA)",
@@ -14,6 +14,6 @@
     "installable": True,
     "uninstall_hook": "uninstall_hook",
     "depends": ["website_crm", "website_form_recaptcha"],
-    "data": ["data/ir_model_data.xml", "views/website_crm_template.xml"],
+    "data": ["data/ir_model_data.xml"],
     "images": ["static/description/website_crm_recaptcha.jpg"],
 }
