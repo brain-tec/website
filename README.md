@@ -26,10 +26,12 @@ addon | version | maintainers | summary
 [website_forum_subscription](website_forum_subscription/) | 18.0.1.0.0 |  | Adds a button to allow subscription from the website
 [website_google_tag_manager](website_google_tag_manager/) | 18.0.1.0.0 |  | Add support for Google Tag Manager
 [website_legal_page](website_legal_page/) | 18.0.1.0.0 |  | Website Legal Page
+[website_menu_by_user_status](website_menu_by_user_status/) | 18.0.1.0.0 |  | Allow to manage the display of website.menus
 [website_odoo_debranding](website_odoo_debranding/) | 18.0.1.0.0 |  | Remove Odoo Branding from Website
 [website_product_document_download_counter](website_product_document_download_counter/) | 18.0.1.0.0 |  | Counts the product document downloads from the website.
+[website_require_login](website_require_login/) | 18.0.1.0.0 |  | Website Login Required
 [website_search_header](website_search_header/) | 18.0.1.0.0 |  | Website Search in Header
-[website_snippet_country_dropdown](website_snippet_country_dropdown/) | 18.0.1.0.0 |  | Allow to select country in a dropdown
+[website_snippet_country_dropdown](website_snippet_country_dropdown/) | 18.0.1.0.1 |  | Allow to select country in a dropdown
 [website_whatsapp](website_whatsapp/) | 18.0.1.0.1 | <a href='https://github.com/ioans73'><img src='https://github.com/ioans73.png' width='32' height='32' style='border-radius:50%;' alt='ioans73'/></a> | Whatsapp integration
 
 [//]: # (end addons)
