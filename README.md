@@ -1,4 +1,7 @@
 
+[![Support the OCA](https://odoo-community.org/readme-banner-image)](https://odoo-community.org/get-involved?utm_source=repo-readme)
+
+# website
 [![Runboat](https://img.shields.io/badge/runboat-Try%20me-875A7B.png)](https://runboat.odoo-community.org/builds?repo=OCA/website&target_branch=18.0)
 [![Pre-commit Status](https://github.com/OCA/website/actions/workflows/pre-commit.yml/badge.svg?branch=18.0)](https://github.com/OCA/website/actions/workflows/pre-commit.yml?query=branch%3A18.0)
 [![Build Status](https://github.com/OCA/website/actions/workflows/test.yml/badge.svg?branch=18.0)](https://github.com/OCA/website/actions/workflows/test.yml?query=branch%3A18.0)
@@ -6,8 +9,6 @@
 [![Translation Status](https://translation.odoo-community.org/widgets/website-18-0/-/svg-badge.svg)](https://translation.odoo-community.org/engage/website-18-0/?utm_source=widget)
 
 <!-- /!\ do not modify above this line -->
-
-# website
 
 website
 
@@ -25,7 +26,7 @@ addon | version | maintainers | summary
 [website_cookiebot](website_cookiebot/) | 18.0.1.0.0 |  | Ask for cookies consent connecting with Cookiebot
 [website_cookiefirst](website_cookiefirst/) | 18.0.2.0.0 |  | Cookiefirst integration
 [website_crm_quick_answer](website_crm_quick_answer/) | 18.0.1.0.0 |  | Add an automatic answer for contacts asking for info
-[website_form_require_legal](website_form_require_legal/) | 18.0.1.0.0 |  | Add possibility to require confirm legal terms.
+[website_form_require_legal](website_form_require_legal/) | 18.0.1.0.1 |  | Add possibility to require confirm legal terms.
 [website_forum_subscription](website_forum_subscription/) | 18.0.1.0.0 |  | Adds a button to allow subscription from the website
 [website_google_tag_manager](website_google_tag_manager/) | 18.0.1.0.0 |  | Add support for Google Tag Manager
 [website_legal_page](website_legal_page/) | 18.0.1.0.0 |  | Website Legal Page
